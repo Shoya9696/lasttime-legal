@@ -1,6 +1,6 @@
-# いつやった？ — Legal / Support
+# なんにちぶり？ — Legal / Support
 
-iOS アプリ「いつやった？」（内部名 LastTime）の、プライバシーポリシーとサポートページ。
+iOS アプリ「なんにちぶり？」（内部名 LastTime）の、プライバシーポリシーとサポートページ。
 GitHub Pages で公開し、App Store Connect に URL を登録する。
 
 - プライバシーポリシー: `privacy-policy.html`
